@@ -26,8 +26,8 @@ groups    1
 constraints    3
 # ID    type    minimum    maximum    group_ID
 0    1    0    23    0
-1    2    0    3585329    0
-2    4    0    873360    0
+1    2    0    35853290000    0
+2    4    0    873360000    0
 
 parking_lots    1
 # ID    location_ID    depot_ID    capacity    parking_cost_per_second
