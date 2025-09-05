@@ -16,7 +16,5 @@ vehicle_courses    13
 
 dwelling_events    3
 # event_index: <vehicle_type> (depot) --pullin_index-> [facility_index] slot_index energy,time --pullout_index->
-0: <0> (0) --638-> [0] 0 3392,62100 95370,67619 --794->
-1: <0> (0) --665-> [0] 1 7882,62340 65397,65791 --896->
-2: <0> (0) --656-> [0] 2 3392,63300 34839,65187 --926->
+
 
