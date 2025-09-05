@@ -1,0 +1,10 @@
+# BVG-142_charge charge data
+
+charge_curves    1
+# charge curves:    index    curve_type    conditioning_time    type_specific_data
+0    P    0    60000    168000    210000
+
+assignments    1    1
+# station x vehicle type matrix of curve indices
+0 
+
