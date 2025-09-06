@@ -39,7 +39,7 @@ parking_lots    1
 
 stations    1
 # ID    location_ID    depot_ID    grid_access_ID    capacity
-0    0    0    0    3
+0    0    0    0    8
 
 trips    123
 # ID    from_location_ID    to_location_ID    group_ID    start_time    end_time    length    energy_per_vehicle_type    tasks_and_links
